@@ -10,14 +10,14 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['51906528530', '💙 𝗕𝗢𝗧 𝗕𝗟𝗨𝗘 💙', true],
-  ['51906528530', '💙 𝗕𝗢𝗧 𝗕𝗟𝗨𝗘 💙', false],
-  ['51906528530', '💙 𝗕𝗢𝗧 𝗕𝗟𝗨𝗘 💙', true],
-  ['51906528530', '💙 𝗕𝗢𝗧 𝗕𝗟𝗨𝗘 💙', true],
+  ['5493834280589', '💙 𝗕𝗢𝗧 𝗕𝗟𝗨𝗘 💙', true],
+  ['5493834280589', '💙 𝗕𝗢𝗧 𝗕𝗟𝗨𝗘 💙', false],
+  ['5493834280589', '💙 𝗕𝗢𝗧 𝗕𝗟𝗨𝗘 💙', true],
+  ['5493834280589', '💙 𝗕𝗢𝗧 𝗕𝗟𝗨𝗘 💙', true],
 ];
 
-global.suittag = ['51906528530'];
-global.prems = ['51906528530'];
+global.suittag = ['5493834280589'];
+global.prems = ['5493834280589'];
 
 global.packname = '𝗮𝗰𝗮𝗯𝗮𝘀 𝗱𝗲 𝗰𝗿𝗲𝗮𝗿 𝘂𝗻 𝘀𝘁𝗶𝗰𝗸𝗲𝗿 𝗰𝗼𝗻 :';
 global.author = '💙 𝗕𝗢𝗧 𝗕𝗟𝗨𝗘 💙';
@@ -53,7 +53,7 @@ global.mysticbot = 'https://www.instagram.com/only.ventas.bot/';
 global.waitt = '*[ 💙 𝗕𝗢𝗧 𝗕𝗟𝗨𝗘 💙 ] Cargando...*';
 global.waittt = '*[ 💙 𝗕𝗢𝗧 𝗕𝗟𝗨𝗘 💙 ] Cargando...*';
 global.waitttt = '*[ 💙 𝗕𝗢𝗧 𝗕𝗟𝗨𝗘 💙 ] Cargando...*';
-global.nomorown = '51906528530';
+global.nomorown = '5493834280589';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
