@@ -1530,16 +1530,16 @@ let date = d.toLocaleDateString('es', { day: 'numeric', month: 'long', year: 'nu
 
 global.dfail = (type, m, conn) => {
   const msg = {
-    rowner: '*[  🤖 ] Ey Paraaaa Pndjx Este Comando Solo Lo Usan Los Owners*',
-    owner: '*[ 🤖 ] Paraaa Este Comando Solo Puede Ser Usado Por El Mas Guapo Osea Yo*',
-    mods: '*[ 🤖 ] Este Comando Solo Puede Ser Usado Por Admins Y El Bot.*',
-    premium: '*[ 🤖 ] Si No Eres Usuario Vip Olvidate De Este Comando XD.*',
-    group: '*[ 🤖 ] Solo Apto Para Grupps Mij@*',
-    private: '*[ 🤖 ] Este Comando Solo Se Puede Usar En El Chat Privadp Del Bot*',
-    admin: '*[ 🤖 ] Solo Puede Ser Usado Por Admins Bldx*',
-    botAdmin: '*[ 🤖 ] Es Necesario Que El Mas Guapo Osea Yo Tenga Admin*',
-    unreg: '*[ 🤖 ] Debes Estar Registrado Primerx*\n\n*[ 🤖 ] Utiliza el comando:* _/verificar nombre.edad_ *para registrarte.*',
-    restrict: '*[ 🤖 ] Este Comando Fie Desactivado Por El Mas Guapo*',
+    rowner: '*[  💙 ] Ey Paraaaa Pndjx Este Comando Solo Lo Usan Los Owners*',
+    owner: '*[ 💙 ] Paraaa Este Comando Solo Puede Ser Usado Por El Mas Guapo Osea Yo*',
+    mods: '*[ 💙 ] Este Comando Solo Puede Ser Usado Por Admins Y El Bot.*',
+    premium: '*[ 💙 ] Si No Eres Usuario Vip Olvidate De Este Comando XD.*',
+    group: '*[ 💙 ] Solo Apto Para Grupps Mij@*',
+    private: '*[ 💙 ] Este Comando Solo Se Puede Usar En El Chat Privadp Del Bot*',
+    admin: '*[ 💙 ] Solo Puede Ser Usado Por Admins Bldx*',
+    botAdmin: '*[ 💙 ] Es Necesario Que El Mas Guapo Osea Yo Tenga Admin*',
+    unreg: '*[ 💙 ] Debes Estar Registrado Primerx*\n\n*[ 💙 ] Utiliza el comando:* _/verificar nombre.edad_ *para registrarte.*',
+    restrict: '*[ 💙 ] Este Comando Fie Desactivado Por El Mas Guapo*',
   }[type];
   const aa = {quoted: m, userJid: conn.user.jid};
   const prep = generateWAMessageFromContent(m.chat, {extendedTextMessage: {text: msg, contextInfo: {externalAdReply: {title: '🤖 𝗢𝗡𝗟𝗬 𝗕𝗢𝗧 🤖', body: '🤖 𝗢𝗡𝗟𝗬 𝗕𝗢𝗧 🤖', thumbnail: imagen1, sourceUrl: 'https://instagram.com/only.ventas.bot'}}}}, aa);
