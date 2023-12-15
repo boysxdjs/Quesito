@@ -1,4 +1,4 @@
-# `🤖 𝗢𝗡𝗟𝗬 𝗕𝗢𝗧 🤖` 
+# `💙 𝗕𝗢𝗧 𝗕𝗟𝗨𝗘 💙` 
  
 ```bash
 cd && termux-setup-storage && pkg update && pkg upgrade -y && pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
