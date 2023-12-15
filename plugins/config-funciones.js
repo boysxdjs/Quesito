@@ -4,7 +4,7 @@ const optionsFull = `_*< FUNCIONES DEL BOT />*_\n
 ▢ *Comando:* ${usedPrefix + command} welcome
 ▢ *Descripción:* Activa o desactiva la bienvenida en el grupo.
 
---------------------------------
+-------------------------------- 
 
 ▢ *Opción:* 🌎 | MODO PUBLICO
 ▢ *Comando:* ${usedPrefix + command} public
