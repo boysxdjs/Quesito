@@ -511,7 +511,7 @@ setInterval(async () => {
   if (stopped === 'close' || !conn || !conn.user) return;
   const _uptime = process.uptime() * 1000;
   const uptime = clockString(_uptime);
-  const bio = `𝗘𝘀𝘁𝗲 𝘂𝘀𝘂𝗮𝗿𝗶𝗼 𝗵𝗮𝗰𝗲 𝘂𝘀𝗼 𝗱𝗲 𝗼𝗻𝗹𝘆 𝗯𝗼𝘁 🤖`;
+  const bio = `𝗘𝘀𝘁𝗲 𝗨𝘀𝘂𝗮𝗿𝗶𝗼 𝗘𝘀𝘁𝗮 𝗨𝘀𝗮𝗻𝗱𝗼 𝗙𝗮𝗻𝘁𝗮𝘀𝗺𝗶𝗻 𝗕𝗼𝘁 👻`;
   await conn.updateProfileStatus(bio).catch((_) => _);
 }, 60000);
 function clockString(ms) {
