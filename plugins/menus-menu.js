@@ -23,13 +23,13 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `⭐ 𝗤𝘂𝗲𝘀𝗼 𝗕𝗼𝘁 ⭐
 
-  *Ey , Hola LolaLovers ${taguser} Te Presento Este Bot ⭐*
+  *Ey , Hola QuesoLovers ${taguser} Te Presento Este Bot ⭐*
 
 ┏━━═════⊰⊱ ⬛ ⊰⊱═════━━┓
  ►⭐ Creador : Queso     
- ►⭐ Numero ; +573012050154
- ►⭐ Comprar Bot : +51 937 305 486
- ►⭐ Ig Referencias : https://www.instagram.com/fantasmin.ventas.bot/
+ ►⭐ Numero ; +57 301 2050154
+ ►⭐ Comprar Bot : +51 902 360 712
+ ►⭐ Ig Referencias : https://www.instagram.com/optimus.ventas.bot/
  ►⭐ QuesoCoins ${money}
  ${readMore}
 ┣━━═════⊰⊱ ⬛ ⊰⊱═════━━┛
@@ -37,9 +37,8 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 *« COMPRAR BOT »*
 
 ┏━━═════⊰⊱ ⬛ ⊰⊱═════━━┓
- ►⭐ _${usedPrefix}Yape *< Comprar Bot >*_
- ►⭐ _${usedPrefix}Vendedores *< Comprar Bot >*_
- ►⭐ _${usedPrefix}PrecioFull *< Comprar Bot Full >*_
+ ►⭐ _${usedPrefix}ComprarBot2_
+ ►⭐ _${usedPrefix}ComprarBot_
 ┣━━═════⊰⊱ ⬛ ⊰⊱═════━━┛
 
  *« MENUS ADICIONALES »*
